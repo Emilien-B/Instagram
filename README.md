@@ -15,7 +15,7 @@ Le module utilise [Selenium](https://www.selenium.dev/), il permet d'envoyer ou 
 
 `headless` - Si vous voulez afficher la page web
 
-`waiting` - Si vous voulez que le programme fasse des pauses pour éviter qu'il ne soit bloqué par Instagram ([En savoir plus]())
+`waiting` - Si vous voulez que le programme fasse des pauses pour éviter qu'il ne soit bloqué par Instagram ([En savoir plus](#%EF%B8%8F-politique-dinstagram))
 
 # 📱 Utilisation
 ## 🗒 Lire les messages
