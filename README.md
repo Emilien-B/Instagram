@@ -15,7 +15,7 @@ Le module utilise [Selenium](https://www.selenium.dev/), il permet d'envoyer ou 
 
 `headless` - Si vous voulez afficher la page web
 
-`waiting` - Si vous voulez que le programme fasse des pauses pour éviter qu'il ne soit bloqué par Instagram ([En savoir plus](#%EF%B8%8F-politique-dinstagram))
+`waiting` - Si vous voulez que le programme fasse des pauses pour éviter qu'il ne soit bloqué par Instagram ([En savoir plus]())
 
 # 📱 Utilisation
 ## 🗒 Lire les messages
@@ -25,11 +25,11 @@ Le module utilise [Selenium](https://www.selenium.dev/), il permet d'envoyer ou 
 
 Renvoie tous les messages non-lus avec l'expéditeur qui correspond sous forme de dictionnaire
 
+<img src="img/msg_ex.png" alt="" width="300"/>
+
 **Exemple de résultat :**
 
 `{'nathan':'Hello !','noah':'How are you ?'}`
-
-<img src="img/msg_ex.png" alt="" width="300"/>
 
 ### 📨
 
@@ -37,11 +37,11 @@ Renvoie tous les messages non-lus avec l'expéditeur qui correspond sous forme d
 
 Renvoie tous les messages entre vous et le nom d'utilisateur donné, renvoie **True** si le message vient de vous sinon **False**
 
+<img src="img/conv_ex.png" alt="" width="300"/>
+
 **Exemple de résultat :** 
 
 `(['Hello ! How are you ?', 'I'm fine', 'And you ?'], [False, True, True])`
-
-<img src="img/conv_ex.png" alt="" width="300"/>
 
 ## 📝 Envoyer des messages
 ### 👤
