@@ -2,7 +2,7 @@
 from instadm import InstaDM
 
 # Login
-insta = InstaDM(username="notes_et_reglages", password='Emilien2007', headless=False, waiting=True)
+insta = InstaDM(username="yourusername", password='yourpassword', headless=False, waiting=True)
 
 # Retrieve unread messages
 Messages = insta.NewMsg()
