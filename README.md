@@ -106,8 +106,8 @@ Le fichier est disponible [ici](test.py).
 
 ### 📚 Documentation
 
->[J'ai utilisé **beaucoup de code d'ici**](https://github.com/CamTosh/instagram-bot-dm) Par [ToshCamille](https://twitter.com/ToshCamille)
+>[J'ai utilisé **beaucoup de code d'ici**](https://github.com/CamTosh/instagram-bot-dm) Par [**ToshCamille**](https://twitter.com/ToshCamille)
 >
 >[Documentation Selenium](https://selenium-python.readthedocs.io/)
 >
->[Vidéo intéréssante...](https://www.youtube.com/watch?v=pHFsGWC8LSU) Par [Graven - Développement](https://twitter.com/Gravenilvec)
+>[Vidéo intéréssante...](https://www.youtube.com/watch?v=pHFsGWC8LSU) Par [**Graven - Développement**](https://twitter.com/Gravenilvec)
