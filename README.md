@@ -90,7 +90,7 @@ Le fichier est disponible [ici](test.py).
 >
 >*Extrait du [règlement de la communauté](https://www.facebook.com/help/instagram/477434105621119/), 2021 Instagram, Inc*
 
-**Le module ne va à l'encontre des règles de la communauté qui lorsqu'il est mal utilisé.**
+**Le module ne va à l'encontre des règles de la communauté que lorsqu'il est mal utilisé.**
 
 # 📎 Autres...
 
