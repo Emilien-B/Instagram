@@ -88,7 +88,7 @@ Le fichier est disponible [ici](test.py).
 >"Encouragez les interactions intéressantes et authentiques.
 >Aidez-nous à lutter contre les contenus indésirables en évitant [...] de contacter de façon répétée des personnes à des fins commerciales sans leur consentement."
 >
->*Extrait du [règlement de la communauté](https://www.facebook.com/help/instagram/477434105621119/), 2021 Instagram, Inc*
+>*Extrait du [règlement de la communauté](https://www.facebook.com/help/instagram/477434105621119/), 2021, Instagram Inc*
 
 **Le module ne va à l'encontre des règles de la communauté que lorsqu'il est mal utilisé.**
 
